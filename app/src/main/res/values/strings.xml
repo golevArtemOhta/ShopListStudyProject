@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ShopListStudyProject</string>
     <string name="my_first_git_project">My first git project</string>
+    <string name="add_shop_item_content_description">Add new shop item</string>
 </resources>
